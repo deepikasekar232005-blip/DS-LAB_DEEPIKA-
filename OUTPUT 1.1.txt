@@ -1,0 +1,70 @@
+OUTPUT
+Array Operation Menu:
+1. Create Array
+2. Insert Element
+3. Search Element
+4. Delete Element
+5. Display Array
+6. Exit
+Enter your choice: 1
+Enter the number of elements: 5
+Enter 5 elements: 1         
+2
+
+3
+4
+5
+Array created successfully.
+
+Array Operation Menu:
+1. Create Array
+2. Insert Element
+3. Search Element
+4. Delete Element
+5. Display Array
+6. Exit
+Enter your choice: 2
+Enter element to insert: 4
+Enter position to insert (0 to 5): 5
+Element inserted successfully.
+
+Array Operation Menu:
+1. Create Array
+2. Insert Element
+3. Search Element
+4. Delete Element
+5. Display Array
+6. Exit
+Enter your choice: 3
+Enter element to search: 3
+Element fount at position: 2
+
+Array Operation Menu:
+1. Create Array
+2. Insert Element
+3. Search Element
+4. Delete Element
+5. Display Array
+6. Exit
+Enter your choice: 4
+Enter position to delete (0 to 5): 3
+Element deleted successfully.
+
+Array Operation Menu:
+1. Create Array
+2. Insert Element
+3. Search Element
+4. Delete Element
+5. Display Array
+6. Exit
+Enter your choice: 5
+Array elements: 1 2 3 5 4 
+
+Array Operation Menu:
+1. Create Array
+2. Insert Element
+3. Search Element
+4. Delete Element
+5. Display Array
+6. Exit
+Enter your choice: 6
